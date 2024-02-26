@@ -2,7 +2,7 @@
 This very simple extension can be added to your Chrome profile to simply copy your Striveworks `access_token` to your clipboard.
 
 ### Installing
-In leiu of publishing the Chrome Web Store, you can:
+In lieu of publishing the Chrome Web Store, you can:
 1. `git clone github.com/peter-crist/cookiecopier`
 2. Navigate to `chrome://extensions/` in your browser
 3. Click the toggle to enable **Developer mode**
