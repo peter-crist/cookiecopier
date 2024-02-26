@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "Strive Cookie Collector",
+    "description": "A minimal extension for fetching your Striveworks access_token",
+    "version": "0.0.1",
+    "icons": {
+        "16": "strivecookie.png"
+    },
+    "action": {
+        "default_title": "Chrome Addon v3 Starter",
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "clipboardWrite",
+        "cookies",
+        "tabs"
+    ],
+    "host_permissions": [
+        "<all_urls>"
+    ]
+}
