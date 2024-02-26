@@ -1,5 +1,5 @@
 ## Strive Cookie Copier
-This very simple extension can be added to your Chrome profile to simply copy your Striveworks `access_token` to your clipboard.
+This very simple extension can be added to your Chrome profile to simply copy an `access_token` to your clipboard.
 
 ### Installing
 In lieu of publishing the Chrome Web Store, you can:
@@ -12,6 +12,6 @@ In lieu of publishing the Chrome Web Store, you can:
 The extension should now be installed and for ease-of-use, you should pin the extension. 
 
 ### How do I use it?
-On a Chariot domain, simply click the extension button. If the `access_token` is found, it will have been copied to your clipboard. 
+On a specific domain, simply click the extension button. If the `access_token` is found, it will have been copied to your clipboard. 
 
 ![](copierScreenshot.png)
